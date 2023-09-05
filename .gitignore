@@ -1,4 +1,6 @@
-# Project exclude paths
+.idea
+.bloop
+.bsp
 /project/target/
+/project/project/
 /target/
-/target/scala-2.12/classes/
